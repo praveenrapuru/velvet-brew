@@ -18,7 +18,7 @@ A café website built with React and Tailwind CSS.
 
 1. Clone the repo
 ```
-git clone https://github.com/yourusername/velvet-brew-cafe.git
+git clone https://github.com/praveenrapuru/velvet-brew-cafe.git
 cd velvet-brew-cafe
 ```
 
@@ -41,5 +41,4 @@ npm start
 
 Opens at http://localhost:3000
 
-## Author
-Poorna
+
